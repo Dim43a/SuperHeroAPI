@@ -19,7 +19,7 @@ import com.example.heroservice.data.HeroConnections
 import com.example.heroservice.data.HeroPowerStats
 import com.example.heroservice.data.HeroWork
 
-private const val accessToken = 506001017976265
+private const val accessToken = "https://superheroapi.com/"
 
 
 class HeroService {
