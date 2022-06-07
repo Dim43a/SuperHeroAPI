@@ -7,9 +7,7 @@ import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.os.StrictMode
 import android.os.StrictMode.ThreadPolicy
-import android.widget.Adapter
 import android.widget.ArrayAdapter
-import android.widget.EditText
 import android.widget.ImageView
 import android.widget.ListView
 import android.widget.TextView
@@ -21,7 +19,7 @@ import com.example.heroservice.data.HeroConnections
 import com.example.heroservice.data.HeroPowerStats
 import com.example.heroservice.data.HeroWork
 
-private const val accessToken = 1234
+private const val accessToken = 506001017976265
 
 
 class HeroService {

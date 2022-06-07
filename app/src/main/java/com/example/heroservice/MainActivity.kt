@@ -7,7 +7,6 @@ import android.widget.EditText
 import android.widget.ImageView
 import android.widget.ListView
 import android.widget.TextView
-import com.example.apijokes.R
 
 open class MainActivity : AppCompatActivity() {
 
